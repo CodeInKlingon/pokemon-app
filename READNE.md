@@ -10,6 +10,8 @@ Vue:
 - run npm run dev
 
 
-Some starter todo items:
+# Some starter todo items:
+- setup sqlite database
 - install vue router
 - install a component library
+- install vue query
